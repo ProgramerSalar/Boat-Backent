@@ -14,69 +14,26 @@
       "watch": false,
       "headphone": true,
       "category": "headphone",
-      "default_color_type": "Pitch_Black",
+      
       "watch_color": [
         "#F08080",
         "#454545",
         "#00FF00",
         "#FF0000"
       ],
-      "default_image": [
-        "../assets/Product/Headphone/Buds_Explore/color-black/one.png",
-        "../assets/Product/Headphone/Buds_Explore/color-black/two.png",
-        "../assets/Product/Headphone/Buds_Explore/color-black/four.png",
-        "../assets/Product/Headphone/Buds_Explore/color-black/five.png",
-        "../assets/Product/Headphone/Buds_Explore/color-black/six.png"
-      ],
+      
       "color_Type": [
         {
           "id": "1",
           "color_type": "Pitch_Black",
           "image": "../assets/Product/Headphone/Buds_Explore/color-black/one.png",
-          "Pitch_Black": [
+          "color_type_Image": [
+            
             "../assets/Product/Headphone/Buds_Explore/color-black/one.png",
             "../assets/Product/Headphone/Buds_Explore/color-black/two.png",
             "../assets/Product/Headphone/Buds_Explore/color-black/four.png",
             "../assets/Product/Headphone/Buds_Explore/color-black/five.png",
             "../assets/Product/Headphone/Buds_Explore/color-black/six.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Cobalt_Blue",
-          "image": "../assets/Product/Headphone/Buds_Explore/color-blue/three.png",
-          "Cobalt_Blue": [
-            "../assets/Product/Headphone/Buds_Explore/color-blue/one.png",
-            "../assets/Product/Headphone/Buds_Explore/color-blue/two.png",
-            "../assets/Product/Headphone/Buds_Explore/color-blue/four.png",
-            "../assets/Product/Headphone/Buds_Explore/color-blue/five.png",
-            "../assets/Product/Headphone/Buds_Explore/color-blue/three.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Fern_Green",
-          "image": "../assets/Product/Headphone/Buds_Explore/Fern-Green/five.png",
-          "Fern_Green": [
-          
-            "../assets/Product/Headphone/Buds_Explore/Fern-Green/five.png",
-            "../assets/Product/Headphone/Buds_Explore/Fern-Green/four.png",
-            "../assets/Product/Headphone/Buds_Explore/Fern-Green/three.png",
-            "../assets/Product/Headphone/Buds_Explore/Fern-Green/two.png",
-            "../assets/Product/Headphone/Buds_Explore/Fern-Green/one.png"
-           
-          ]
-        },
-        {
-          "id": "4",
-          "color_type": "Mocha_white",
-          "image": "../assets/Product/Headphone/Buds_Explore/Mocha-white/four.png",
-          "Mocha_white": [
-            "../assets/Product/Headphone/Buds_Explore/Mocha-white/six.png",
-            "../assets/Product/Headphone/Buds_Explore/Mocha-white/two.png",
-            "../assets/Product/Headphone/Buds_Explore/Mocha-white/four.png",
-            "../assets/Product/Headphone/Buds_Explore/Mocha-white/five.png",
-            "../assets/Product/Headphone/Buds_Explore/Mocha-white/three.png"
           ]
         }
       ],
@@ -196,38 +153,18 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Neon_Black",
-      "default_image": [
-        "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\two.png",
-        "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\one.png",
-        "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\three.png",
-        "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\four.png",
-        "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\six.png"
-      ],
+      
       "color_Type": [
         {
           "id": "1",
           "color_type": "Neon_White",
           "image": "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\two.png",
-          "Neon_White": [
+          "color_type_Image": [
             "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\two.png",
             "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\one.png",
             "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\three.png",
             "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\four.png",
             "../assets\\Product\\Headphone\\Buds_vs402_gaming\\Neon-white\\six.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Neon_Black",
-          "image":  "../assets/Product/Headphone/Buds_vs402_gaming/Neon-black/five.png",
-          "Neon_Black": [
-          
-            "../assets/Product/Headphone/Buds_vs402_gaming/Neon-black/five.png",
-            "../assets/Product/Headphone/Buds_vs402_gaming/Neon-black/four.png",
-            "../assets/Product/Headphone/Buds_vs402_gaming/Neon-black/three.png",
-            "../assets/Product/Headphone/Buds_vs402_gaming/Neon-black/two.png",
-            "../assets/Product/Headphone/Buds_vs402_gaming/Neon-black/one.png"
           ]
         }
       ],
@@ -301,61 +238,19 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Calm_Beige",
-      "default_image": [
-        "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/five.png",
-        "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/four.png",
-        "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/three.png",
-        "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/two.png",
-        "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/one.png"
-      ],
+    
+      
       "color_Type": [
         {
           "id": "1",
           "color_type": "Calm_Beige",
           "image": "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/four.png",
-          "Calm_Beige": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/five.png",
             "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/four.png",
             "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/three.png",
             "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/two.png",
             "../assets/Product/Headphone/Buds_N1/Calm_Beige/png/one.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Neon_Black",
-          "image":  "../assets/Product/Headphone/Buds_N1/Carbon_black/png/three.png",
-          "Neon_Black": [
-            "../assets/Product/Headphone/Buds_N1/Carbon_black/png/five.png",
-            "../assets/Product/Headphone/Buds_N1/Carbon_black/png/four.png",
-            "../assets/Product/Headphone/Buds_N1/Carbon_black/png/three.png",
-            "../assets/Product/Headphone/Buds_N1/Carbon_black/png/two.png",
-            "../assets/Product/Headphone/Buds_N1/Carbon_black/png/one.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Forest_Green",
-          "image": "../assets/Product/Headphone/Buds_N1/Forest_Green/png/four.png",
-          "Forest_Green": [
-            "../assets/Product/Headphone/Buds_N1/Forest_Green/png/five.png",
-            "../assets/Product/Headphone/Buds_N1/Forest_Green/png/four.png",
-            "../assets/Product/Headphone/Buds_N1/Forest_Green/png/three.png",
-            "../assets/Product/Headphone/Buds_N1/Forest_Green/png/two.png",
-            "../assets/Product/Headphone/Buds_N1/Forest_Green/png/one.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Ice_Blue",
-          "image": "../assets/Product/Headphone/Buds_N1/Ice_Blue/png/four.png",
-          "Ice_Blue": [
-            "../assets/Product/Headphone/Buds_N1/Ice_Blue/png/five.png",
-            "../assets/Product/Headphone/Buds_N1/Ice_Blue/png/four.png",
-            "../assets/Product/Headphone/Buds_N1/Ice_Blue/png/three.png",
-            "../assets/Product/Headphone/Buds_N1/Ice_Blue/png/two.png",
-            "../assets/Product/Headphone/Buds_N1/Ice_Blue/png/one.png"
           ]
         }
       ],
@@ -363,9 +258,6 @@
         {
           "content_1": [
             "../assets/Product/Headphone/Buds_N1/Product_Contant/png/one.png"
-          ],
-          "content_2": [
-            "../assets/Product/Headphone/Buds_N1/Product_Contant/png/two.mp4"
           ],
           "content_3": [
             "../assets/Product/Headphone/Buds_N1/Product_Contant/png/three.png",
@@ -437,54 +329,19 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Calm_Beige",
-      "default_image": [
-        "../assets/Product/Headphone/Buds_Xero/Beig/png/five.png",
-        "../assets/Product/Headphone/Buds_Xero/Beig/png/four.png",
-        "../assets/Product/Headphone/Buds_Xero/Beig/png/three.png",
-        "../assets/Product/Headphone/Buds_Xero/Beig/png/two.png",
-        "../assets/Product/Headphone/Buds_Xero/Beig/png/one.png",
-        "../assets/Product/Headphone/Buds_Xero/Beig/png/six.png"
-      ],
+      
       "color_Type": [
         {
           "id": "1",
           "color_type": "Beige",
           "image": "../assets/Product/Headphone/Buds_Xero/Beig/png/five.png",
-          "Beige": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Buds_Xero/Beig/png/five.png",
             "../assets/Product/Headphone/Buds_Xero/Beig/png/four.png",
             "../assets/Product/Headphone/Buds_Xero/Beig/png/three.png",
             "../assets/Product/Headphone/Buds_Xero/Beig/png/two.png",
             "../assets/Product/Headphone/Buds_Xero/Beig/png/one.png",
             "../assets/Product/Headphone/Buds_Xero/Beig/png/six.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Black",
-          "image": "../assets/Product/Headphone/Buds_Xero/Black/png/five.png",
-          "Black": [
-            "../assets/Product/Headphone/Buds_Xero/Black/png/five.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/four.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/three.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/two.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/one.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/six.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/seven.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/eight.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Blue",
-          "image": "../assets/Product/Headphone/Buds_Xero/Blue/png/one.png",
-          "Blue": [
-            "../assets/Product/Headphone/Buds_Xero/Black/png/one.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/two.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/three.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/four.png",
-            "../assets/Product/Headphone/Buds_Xero/Black/png/five.png"
           ]
         }
       ],
@@ -498,11 +355,7 @@
             "../assets/Product/Headphone/Buds_Xero/product_content/png/three.png",
             "../assets/Product/Headphone/Buds_Xero/product_content/png/four.png"
           ],
-          "content_2": [
-            "../assets/Product/Headphone/Buds_Xero/product_content/png/five.mp4",
-            "../assets/Product/Headphone/Buds_Xero/product_content/png/seven.mp4",
-            "../assets/Product/Headphone/Buds_Xero/product_content/png/nine.mp4"
-          ],
+         
           "content_5": [
             "../assets/Product/Headphone/Buds_Xero/product_content/png/six.png",
             "../assets/Product/Headphone/Buds_Xero/product_content/png/eight.png",
@@ -533,64 +386,16 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Aurora_Green",
-      "default_image": [
-        "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/two.png",
-        "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/one.png",
-        "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/three.png",
-        "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/foru.png"
-      ],
       "color_Type": [
         {
           "id": "1",
           "color_type": "Aurora_Green",
           "image": "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/two.png",
-          "Aurora_Green": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/two.png",
             "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/one.png",
             "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/three.png",
             "../assets/Product/Headphone/Buds_VS02_Pro/Aurora_Green/png/foru.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Jet_Black",
-          "image": "../assets/Product/Headphone/Buds_VS02_Pro/Jet_Black/png/two.png",
-          "Jet_Black": [
-            "../assets/Product/Headphone/Buds_VS02_Pro/Jet_Black/png/two.png",
-            "../assets/Product/Headphone/Buds_VS02_Pro/Jet_Black/png/one.png",
-            "../assets/Product/Headphone/Buds_VS02_Pro/Jet_Black/png/three.png",
-            "../assets/Product/Headphone/Buds_VS02_Pro/Jet_Black/png/four.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Calm_Beige",
-          "image": "../assets/Product/Headphone/Buds_VS02_Pro/Calm_Beige/png/three.png",
-          "Calm_Beige": [
-            "../assets/Product/Headphone/Buds_VS02_Pro/Calm_Beige/png/three.png"
-          ]
-        },
-        {
-          "id": "4",
-          "color_type": "Glacier_Blue",
-          "image": "../assets/Product/Headphone/Buds_VS02_Pro/Calm_Beige/png/two.png",
-          "Glacier_Blue": [
-            "../assets/Product/Headphone/Buds_VS02_Pro/Calm_Beige/png/two.png",
-            "../assets/Product/Headphone/Buds_VS02_Pro/Calm_Beige/png/one.png",
-            "../assets/Product/Headphone/Buds_VS02_Pro/Calm_Beige/png/three.png",
-            "../assets/Product/Headphone/Buds_VS02_Pro/Calm_Beige/png/four.png"
-          ]
-        },
-        {
-          "id": "5",
-          "color_type": "Blazing_Red",
-          "image": "../assets/Product/Headphone/Buds_VS02_Pro/Blazing Red/png/two.png",
-          "Blazing_Red": [
-            "../assets/Product/Headphone/Buds_VS02_Pro/Blazing Red/png/two.png",
-            "../assets/Product/Headphone/Buds_VS02_Pro/Blazing Red/png/three.png",
-            "../assets/Product/Headphone/Buds_VS02_Pro/Blazing Red/png/four.png",
-            "../assets/Product/Headphone/Buds_VS02_Pro/Blazing Red/png/one.png"
           ]
         }
       ],
@@ -628,26 +433,12 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Aurora_Green",
-      "default_image": [
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/one.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/two.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/three.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/four.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/five.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/six.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/seven.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/eight.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/nine.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/ten.png",
-        "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/eleven.png"
-      ],
       "color_Type": [
         {
           "id": "1",
           "color_type": "Aura_Black",
           "image": "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/one.png",
-          "Aura_Black": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/one.png",
             "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/two.png",
             "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/three.png",
@@ -660,30 +451,6 @@
             "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/ten.png",
             "../assets/Product/Headphone/Aura_Buds/Aura_Black/png/eleven.png"
           ]
-        },
-        {
-          "id": "2",
-          "color_type": "Aura_Blue",
-          "image": "../assets/Product/Headphone/Aura_Buds/Aura_Blue/png/two.png",
-          "Aura_Blue": [
-            "../assets/Product/Headphone/Aura_Buds/Aura_Blue/png/one.png",
-            "../assets/Product/Headphone/Aura_Buds/Aura_Blue/png/two.png",
-            "../assets/Product/Headphone/Aura_Buds/Aura_Blue/png/three.png",
-            "../assets/Product/Headphone/Aura_Buds/Aura_Blue/png/four.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Aura_White",
-          "image": "../assets/Product/Headphone/Aura_Buds/Aura_White/png/two.png",
-          "Aura_White": [
-            "../assets/Product/Headphone/Aura_Buds/Aura_White/png/one.png",
-            "../assets/Product/Headphone/Aura_Buds/Aura_White/png/two.png",
-            "../assets/Product/Headphone/Aura_Buds/Aura_White/png/three.png",
-            "../assets/Product/Headphone/Aura_Buds/Aura_White/png/four.png",
-            "../assets/Product/Headphone/Aura_Buds/Aura_White/png/five.png",
-            "../assets/Product/Headphone/Aura_Buds/Aura_White/png/six.png"
-          ]
         }
       ],
       "content_Image": [
@@ -692,11 +459,7 @@
             "../assets/Product/Headphone/Aura_Buds/content/png/one.png",
             "../assets/Product/Headphone/Aura_Buds/content/png/two.png"
           ],
-          "content_2": [
-            "../assets/Product/Headphone/Aura_Buds/content/three.mp4",
-            "../assets/Product/Headphone/Aura_Buds/content/four.mp4",
-            "../assets/Product/Headphone/Aura_Buds/content/seven.mp4"
-          ],
+         
           "content_3": [
             "../assets/Product/Headphone/Aura_Buds/content/png/five.png",
             "../assets/Product/Headphone/Aura_Buds/content/png/six.png",
@@ -764,61 +527,17 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Aurora_Green",
-      "default_image": [
-        "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/one.png",
-        "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/two.png",
-        "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/three.png",
-        "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/four.png",
-        "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/five.png"
-      ],
       "color_Type": [
         {
           "id": "1",
           "color_type": "Forest_Pop",
           "image": "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/one.png",
-          "Forest_Pop": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/one.png",
             "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/two.png",
             "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/three.png",
             "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/four.png",
             "../assets/Product/Headphone/Pop_Buds/Forest_Pop/png/five.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Steel_Pop",
-          "image": "../assets/Product/Headphone/Pop_Buds/Steel_Pop/png/one.png",
-          "Steel_Pop": [
-            "../assets/Product/Headphone/Pop_Buds/Steel_Pop/png/one.png",
-            "../assets/Product/Headphone/Pop_Buds/Steel_Pop/png/two.png",
-            "../assets/Product/Headphone/Pop_Buds/Steel_Pop/png/three.png",
-            "../assets/Product/Headphone/Pop_Buds/Steel_Pop/png/four.png",
-            "../assets/Product/Headphone/Pop_Buds/Steel_Pop/png/five.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Moon_pop",
-          "image": "../assets/Product/Headphone/Pop_Buds/Moon_pop/png/one.png",
-          "Moon_pop": [
-            "../assets/Product/Headphone/Pop_Buds/Moon_pop/png/one.png",
-            "../assets/Product/Headphone/Pop_Buds/Moon_pop/png/two.png",
-            "../assets/Product/Headphone/Pop_Buds/Moon_pop/png/three.png",
-            "../assets/Product/Headphone/Pop_Buds/Moon_pop/png/four.png",
-            "../assets/Product/Headphone/Pop_Buds/Moon_pop/png/five.png"
-          ]
-        },
-        {
-          "id": "4",
-          "color_type": "Lilac_Pop",
-          "image": "../assets/Product/Headphone/Pop_Buds/Lilac_pop/png/one.png",
-          "Lilac_Pop": [
-            "../assets/Product/Headphone/Pop_Buds/Lilac_pop/png/one.png",
-            "../assets/Product/Headphone/Pop_Buds/Lilac_pop/png/two.png",
-            "../assets/Product/Headphone/Pop_Buds/Lilac_pop/png/three.png",
-            "../assets/Product/Headphone/Pop_Buds/Lilac_pop/png/four.png",
-            "../assets/Product/Headphone/Pop_Buds/Lilac_pop/png/five.png"
           ]
         }
       ],
@@ -895,63 +614,21 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Aurora_Green",
-      "default_image": [
-        "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/one.png",
-        "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/two.png",
-        "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/three.png",
-        "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/four.png",
-        "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/five.png"
-      ],
+     
       "color_Type": [
         {
           "id": "1",
           "color_type": "Covert_White",
           "image": "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/one.png",
-          "Covert_White": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/one.png",
             "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/two.png",
             "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/three.png",
             "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/four.png",
             "../assets/Product/Headphone/Buds_Combat_x_Gaming/Covert_White/png/five.png"
           ]
-        },
-        {
-          "id": "2",
-          "color_type": "Stealth_Black",
-          "image": "../assets/Product/Headphone/Buds_Combat_x_Gaming/Stealth_Black/png/one.png",
-          "Stealth_Black": [
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Stealth_Black/png/one.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Stealth_Black/png/two.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Stealth_Black/png/three.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Stealth_Black/png/four.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Stealth_Black/png/five.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Shadow_Grey",
-          "image": "../assets/Product/Headphone/Buds_Combat_x_Gaming/Shadow_Grey/png/one.png",
-          "Shadow_Grey": [
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Shadow_Grey/png/one.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Shadow_Grey/png/two.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Shadow_Grey/png/three.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Shadow_Grey/png/four.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Shadow_Grey/png/five.png"
-          ]
-        },
-        {
-          "id": "4",
-          "color_type": "Lilac_Pop",
-          "image": "../assets/Product/Headphone/Buds_Combat_x_Gaming/Thunder_Blue/png/one.png",
-          "Lilac_Pop": [
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Thunder_Blue/png/one.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Thunder_Blue/png/two.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Thunder_Blue/png/three.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Thunder_Blue/png/four.png",
-            "../assets/Product/Headphone/Buds_Combat_x_Gaming/Thunder_Blue/png/five.png"
-          ]
         }
+       
       ],
       "content_Image": [
         {
@@ -1028,61 +705,17 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Jet_Black",
-      "default_image": [
-        "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/five.png",
-        "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/four.png",
-        "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/three.png",
-        "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/two.png",
-        "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/one.png"
-      ],
       "color_Type": [
         {
           "id": "1",
           "color_type": "Jet_Black",
           "image": "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/five.png",
-          "Jet_Black": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/five.png",
             "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/four.png",
             "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/three.png",
             "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/two.png",
             "../assets/Product/Headphone/Buds_VS40/Jet_Black/png/one.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Forest_Green",
-          "image": "../assets/Product/Headphone/Buds_VS40/Forest_Green/png/one.png",
-          "Forest_Green": [
-            "../assets/Product/Headphone/Buds_VS40/Forest_Green/png/one.png",
-            "../assets/Product/Headphone/Buds_VS40/Forest_Green/png/two.png",
-            "../assets/Product/Headphone/Buds_VS40/Forest_Green/png/three.png",
-            "../assets/Product/Headphone/Buds_VS40/Forest_Green/png/four.png",
-            "../assets/Product/Headphone/Buds_VS40/Forest_Green/png/five.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Soft_Lilac",
-          "image": "../assets/Product/Headphone/Buds_VS40/Soft_Lilac/png/five.png",
-          "Soft_Lilac": [
-            "../assets/Product/Headphone/Buds_VS40/Soft_Lilac/png/five.png",
-            "../assets/Product/Headphone/Buds_VS40/Soft_Lilac/png/four.png",
-            "../assets/Product/Headphone/Buds_VS40/Soft_Lilac/png/three.png",
-            "../assets/Product/Headphone/Buds_VS40/Soft_Lilac/png/two.png",
-            "../assets/Product/Headphone/Buds_VS40/Soft_Lilac/png/one.png"
-          ]
-        },
-        {
-          "id": "4",
-          "color_type": "Calm_Beige",
-          "image": "../assets/Product/Headphone/Buds_VS40/Calm_Beige/png/one.png",
-          "Calm_Beige": [
-            "../assets/Product/Headphone/Buds_VS40/Calm_Beige/png/one.png",
-            "../assets/Product/Headphone/Buds_VS40/Calm_Beige/png/two.png",
-            "../assets/Product/Headphone/Buds_VS40/Calm_Beige/png/thee.png",
-            "../assets/Product/Headphone/Buds_VS40/Calm_Beige/png/four.png",
-            "../assets/Product/Headphone/Buds_VS40/Calm_Beige/png/five.png"
           ]
         }
       ],
@@ -1161,51 +794,18 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Sheen_Green",
-      "default_image": [
-        "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/five.png",
-        "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/four.png",
-        "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/three.png",
-        "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/two.png",
-        "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/one.png",
-        "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/six.png"
-      ],
       "color_Type": [
         {
           "id": "1",
           "color_type": "Sheen_Green",
           "image": "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/five.png",
-          "Sheen_Green": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/five.png",
             "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/four.png",
             "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/three.png",
             "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/two.png",
             "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/one.png",
             "../assets/Product/Headphone/Buds_X_Prime/Sheen_Green/png/six.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Champagne_White",
-          "image": "../assets/Product/Headphone/Buds_X_Prime/Champagne_White/png/one.png",
-          "Champagne_White": [
-            "../assets/Product/Headphone/Buds_X_Prime/Champagne_White/png/one.png",
-            "../assets/Product/Headphone/Buds_X_Prime/Champagne_White/png/two.png",
-            "../assets/Product/Headphone/Buds_X_Prime/Champagne_White/png/three.png",
-            "../assets/Product/Headphone/Buds_X_Prime/Champagne_White/png/four.png",
-            "../assets/Product/Headphone/Buds_X_Prime/Champagne_White/png/five.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Silver_Grey",
-          "image": "../assets/Product/Headphone/Buds_X_Prime/Silver_Grey/png/two.png",
-          "Silver_Grey": [
-            "../assets/Product/Headphone/Buds_X_Prime/Silver_Grey/png/one.png",
-            "../assets/Product/Headphone/Buds_X_Prime/Silver_Grey/png/two.png",
-            "../assets/Product/Headphone/Buds_X_Prime/Silver_Grey/png/three.png",
-            "../assets/Product/Headphone/Buds_X_Prime/Silver_Grey/png/four.png",
-            "../assets/Product/Headphone/Buds_X_Prime/Silver_Grey/png/five.png"
           ]
         }
       ],
@@ -1279,49 +879,18 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Deep_Wline",
-      "default_image": [
-        "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/one.png",
-        "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/two.png",
-        "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/three.png",
-        "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/four.png",
-        "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/five.png"
-      ],
+      
       "color_Type": [
         {
           "id": "1",
           "color_type": "Camo_Green",
           "image": "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/one.png",
-          "Camo_Green": [
+          "color_type_Image": [
             "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/one.png",
             "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/two.png",
             "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/three.png",
             "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/four.png",
             "/assets/Product/Headphone/Buds_Combat_Z/Camo_Green/png/five.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Stealth_Black",
-          "image": "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/one.png",
-          "Stealth_Black": [
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/one.png",
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/two.png",
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/three.png",
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/four.png",
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/five.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Shadow_Grey",
-          "image": "/assets/Product/Headphone/Buds_Combat_Z/Shadow_Grey/png/one.png",
-          "Shadow_Grey": [
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/one.png",
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/two.png",
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/three.png",
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/four.png",
-            "/assets/Product/Headphone/Buds_Combat_Z/Stelth_Black/png/five.png"
           ]
         }
       ],
@@ -1395,60 +964,17 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Rose_Gold",
-      "default_image": [
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/one.png",
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/two.png",
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/three.png",
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/four.png",
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/five.png"
-      ],
       "color_Type": [
         {
           "id": "1",
           "color_type": "Rose_Gold",
           "image": "/assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/five.png",
-          "Rose_Gold": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/one.png",
             "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/two.png",
             "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/three.png",
             "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/four.png",
             "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/five.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Silver_Grey",
-          "image": "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/five.png",
-          "Silver_Grey": [
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/five.png",
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/four.png",
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/three.png",
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/two.png",
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/one.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Jet_Black",
-          "image": "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/five.png",
-          "Jet_Black": [
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/one.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/two.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/three.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/four.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/five.png"
-          ]
-        }
-      ],
-      "content_Image": [
-        {
-          "content_1": [
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/content/png/one.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/content/png/two.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/content/png/three.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/content/png/four.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/content/png/five.png"
           ]
         }
       ],
@@ -1511,49 +1037,18 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Rose_Gold",
-      "default_image": [
-        "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/one.png",
-        "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/two.png",
-        "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/three.png",
-        "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/four.png",
-        "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/five.png"
-      ],
+      
       "color_Type": [
         {
           "id": "1",
           "color_type": "Sky_Blue",
           "image": "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/one.png",
-          "Sky_Blue": [
+          "color_type_Image": [
             "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/one.png",
             "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/two.png",
             "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/three.png",
             "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/four.png",
             "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Sky_Blue/png/five.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Silver_Grey",
-          "image": "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Cloud_White/png/one.png",
-          "Silver_Grey": [
-            "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Cloud_White/png/one.png",
-            "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Cloud_White/png/two.png",
-            "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Cloud_White/png/three.png",
-            "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Cloud_White/png/four.png",
-            "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Cloud_White/png/five.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Jet_Black",
-          "image": "/assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Jet_Black/png/one.png",
-          "Jet_Black": [
-            "../assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Jet_Black/png/one.png",
-            "../assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Jet_Black/png/two.png",
-            "../assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Jet_Black/png/three.png",
-            "../assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Jet_Black/png/four.png",
-            "../assets/Product/Headphone/Buds_VS06_50_Hr_Playtime/Jet_Black/png/five.png"
           ]
         }
       ],
@@ -1627,49 +1122,18 @@
         "#00FF00",
         "#FF0000"
       ],
-      "default_color_type": "Rose_Gold",
-      "default_image": [
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/one.png",
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/two.png",
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/three.png",
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/four.png",
-        "../assets/Product/Headphone/Buds_VS04_Max_ANC/Rose_Gold/png/five.png"
-      ],
+      
       "color_Type": [
         {
           "id": "1",
           "color_type": "Olive_Green",
           "image": "/assets/Product/Headphone/Buds_VS02_Neo/Olive_Green/png/one.png",
-          "Olive_Green": [
+          "color_type_Image": [
             "../assets/Product/Headphone/Buds_VS02_Neo/Olive_Green/png/one.png",
             "../assets/Product/Headphone/Buds_VS02_Neo/Olive_Green/png/two.png",
             "../assets/Product/Headphone/Buds_VS02_Neo/Olive_Green/png/three.png",
             "../assets/Product/Headphone/Buds_VS02_Neo/Olive_Green/png/four.png",
             "../assets/Product/Headphone/Buds_VS02_Neo/Olive_Green/png/five.png"
-          ]
-        },
-        {
-          "id": "2",
-          "color_type": "Silver_Grey",
-          "image": "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/five.png",
-          "Silver_Grey": [
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/five.png",
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/four.png",
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/three.png",
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/two.png",
-            "/assets/Product/Headphone/Buds_VS04_Max_ANC/Silver_Grey/png/one.png"
-          ]
-        },
-        {
-          "id": "3",
-          "color_type": "Jet_Black",
-          "image": "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/five.png",
-          "Jet_Black": [
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/one.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/two.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/three.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/four.png",
-            "../assets/Product/Headphone/Buds_VS04_Max_ANC/Jet_Black/png/five.png"
           ]
         }
       ],
@@ -1727,29 +1191,6 @@
     }
   ],
   "cart": [
-    [
-      {
-        "id": "1Fern_Green2",
-        "name": "Buds_Explore",
-        "price": "1399",
-        "old_price": "3999",
-        "quantity": "2",
-        "amount": 2,
-        "colorImage": "../assets/Product/Headphone/Buds_Explore/fern-Green/one.png",
-        "colorTextName": "Fern_Green"
-      }
-    ],
-    [
-      {
-        "id": "1Fern_Green2",
-        "name": "Buds_Explore",
-        "price": "1399",
-        "old_price": "3999",
-        "quantity": "2",
-        "amount": 2,
-        "colorImage": "../assets/Product/Headphone/Buds_Explore/fern-Green/one.png",
-        "colorTextName": "Fern_Green"
-      }
-    ]
+    
   ]
 }

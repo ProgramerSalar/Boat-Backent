@@ -20,9 +20,9 @@ app.use(express.urlencoded({
 import paymentRoute from "./routes/paymentRoutes.js"
 
 
-app.use('/api', paymentRoute)
+app.use('/api/api', paymentRoute)
 
-app.get("/api/getkey", (req, res) => {
+app.get("/api/api/getkey", (req, res) => {
 
     res.status(200).json({
         key:process.env.RAZORPAY_API_KEY

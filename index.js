@@ -22,7 +22,7 @@ const router = jsonServer.router(json_data)
 const middlewares = jsonServer.defaults()
 
 app.use(middlewares)
-app.use('/', router)
+app.use('/api', router)
 
 // express server 
 app.use(cors())
@@ -39,6 +39,6 @@ const port = process.env.PORT
 
 
 
-app.listen(port, () => {
-    console.log("Json server is running.....")
+app.listen(`${port}`, () => {
+    console.log(`Json server is running.....${port}`)
 })
