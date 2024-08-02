@@ -49,7 +49,6 @@
             "../assets/Boat/Airdops 45v12/contant/eight.png",
             "../assets/Boat/Airdops 45v12/contant/nine.png",
             "../assets/Boat/Airdops 45v12/contant/ten.png",
-        
             "../assets/g_one.png"
           ]
         }
@@ -92,8 +91,13 @@
         {
           "content_1": [
            "../assets/Boat/Airdops441/contant/one.png",
-           
-           
+           "../assets/Boat/Airdops441/contant/two.png",
+           "../assets/Boat/Airdops441/contant/three.png",
+           "../assets/Boat/Airdops441/contant/four.png",
+           "../assets/Boat/Airdops441/contant/five.png",
+           "../assets/Boat/Airdops441/contant/six.png",
+           "../assets/Boat/Airdops441/contant/seven.png",
+           "../assets/Boat/Airdops441/contant/eight.png",
             "../assets/g_one.png"
 
           ]
