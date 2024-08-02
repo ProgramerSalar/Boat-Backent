@@ -39,55 +39,19 @@
       "content_Image": [
         {
           "content_1": [
-            "../assets/Boat/Airdops 45v12/contant/five.png",
-            "../assets/Boat/Airdops 45v12/contant/four.png",
-            "../assets/Boat/Airdops 45v12/contant/three.png",
-            "../assets/Boat/Airdops 45v12/contant/two.png",
             "../assets/Boat/Airdops 45v12/contant/one.png",
-            "../assets/Boat/Airdops 45v12/contant/six.png"
+            "../assets/Boat/Airdops 45v12/contant/two.png",
+            "../assets/Boat/Airdops 45v12/contant/three.png",
+            "../assets/Boat/Airdops 45v12/contant/four.png",
+            "../assets/Boat/Airdops 45v12/contant/five.png",
+            "../assets/Boat/Airdops 45v12/contant/six.png",
+            "../assets/Boat/Airdops 45v12/contant/seven.png",
+            "../assets/Boat/Airdops 45v12/contant/eight.png",
+            "../assets/Boat/Airdops 45v12/contant/nine.png",
+            "../assets/Boat/Airdops 45v12/contant/ten.png",
+        
+            "../assets/g_one.png"
           ]
-        }
-      ],
-      "Reviews": [
-        {
-          "image": "../assets/Reviews/png/one.png",
-          "name": "Ayush Das",
-          "user": "Verified",
-          "Date": "20/04/2024",
-          "star": "5",
-          "contant": "Liked a lot The bass, battery backup, ANC, ENC, Transparency Mode and the design all are perfect and are up to mark and enough for daily use. The weight is also not an issue as it is very light weight. #ShunoDilKaShor"
-        },
-        {
-          "image": "../assets/Reviews/png/two.png",
-          "name": "Manish kumar",
-          "user": "Verified",
-          "Date": "20/04/2024",
-          "star": "5",
-          "contant": "Liked a lot The bass, battery backup, ANC, ENC, Transparency Mode and the design all are perfect and are up to mark and enough for daily use. The weight is also not an issue as it is very light weight. #ShunoDilKaShor"
-        },
-        {
-          "image": "../assets/Reviews/png/three.png",
-          "name": "Ayush Das",
-          "user": "Verified",
-          "Date": "20/04/2024",
-          "star": "5",
-          "contant": "Liked a lot The bass, battery backup, ANC, ENC, Transparency Mode and the design all are perfect and are up to mark and enough for daily use. The weight is also not an issue as it is very light weight. #ShunoDilKaShor"
-        },
-        {
-          "image": "../assets/Reviews/png/four.png",
-          "name": "Manish kumar",
-          "user": "Verified",
-          "Date": "20/04/2024",
-          "star": "5",
-          "contant": "Liked a lot The bass, battery backup, ANC, ENC, Transparency Mode and the design all are perfect and are up to mark and enough for daily use. The weight is also not an issue as it is very light weight. #ShunoDilKaShor"
-        },
-        {
-          "image": "../assets/Reviews/png/five.png",
-          "name": "Ayush Das",
-          "user": "Verified",
-          "Date": "20/04/2024",
-          "star": "5",
-          "contant": "Liked a lot The bass, battery backup, ANC, ENC, Transparency Mode and the design all are perfect and are up to mark and enough for daily use. The weight is also not an issue as it is very light weight. #ShunoDilKaShor"
         }
       ]
     },
@@ -127,12 +91,11 @@
       "content_Image": [
         {
           "content_1": [
-           "../assets/Boat/Airdops 45v2/contant/one.png",
-            "../assets/Boat/Airdops 45v2/contant/two.png",
-            "../assets/Boat/Airdops 45v2/contant/three.png",
-            "../assets/Boat/Airdops 45v2/contant/four.png",
-            "../assets/Boat/Airdops 45v2/contant/five.png",
-            "../assets/Boat/Airdops 45v2/contant/six.png"
+           "../assets/Boat/Airdops441/contant/one.png",
+           
+           
+            "../assets/g_one.png"
+
           ]
         }
       ]
@@ -179,7 +142,15 @@
           "content_1": [
             "../assets/Boat/Airdops 201/contant/one.png",
             "../assets/Boat/Airdops 201/contant/two.png",
-            "../assets/Boat/Airdops 201/contant/three.png"
+            "../assets/Boat/Airdops 201/contant/three.png",
+            "../assets/Boat/Airdops 201/contant/four.png",
+            "../assets/Boat/Airdops 201/contant/five.png",
+            "../assets/Boat/Airdops 201/contant/six.png",
+            "../assets/Boat/Airdops 201/contant/seven.png",
+            "../assets/Boat/Airdops 201/contant/eight.png",
+            "../assets/Boat/Airdops 201/contant/nine.png",
+            "../assets/g_one.png"
+
           ]
           
         }
@@ -230,7 +201,9 @@
             "../assets/Boat/airdopes-641/contant/five.png",
             "../assets/Boat/airdopes-641/contant/six.png",
             "../assets/Boat/airdopes-641/contant/seven.png",
-            "../assets/Boat/airdopes-641/contant/eight.png"
+            "../assets/Boat/airdopes-641/contant/eight.png",
+            "../assets/g_one.png"
+
           ]
         }
       ]
@@ -280,7 +253,9 @@
             "../assets/Boat/airdopes-511-v2/contant/five.png",
             "../assets/Boat/airdopes-511-v2/contant/six.png",
             "../assets/Boat/airdopes-511-v2/contant/seven.png",
-            "../assets/Boat/airdopes-511-v2/contant/eight.png"
+            "../assets/Boat/airdopes-511-v2/contant/eight.png",
+            "../assets/g_one.png"
+
           ]
         }
       ]
@@ -329,7 +304,9 @@
             "../assets/Boat/airdopes-461/contant/five.png",
             "../assets/Boat/airdopes-461/contant/six.png",
             "../assets/Boat/airdopes-461/contant/seven.png",
-            "../assets/Boat/airdopes-461/contant/eight.png"
+            "../assets/Boat/airdopes-461/contant/eight.png",
+            "../assets/g_one.png"
+
           ]
         }
       ]
@@ -376,7 +353,9 @@
             "../assets/Boat/airdopes-443/contant/five.png",
             "../assets/Boat/airdopes-443/contant/six.png",
             "../assets/Boat/airdopes-443/contant/seven.png",
-            "../assets/Boat/airdopes-443/contant/eight.png"
+            "../assets/Boat/airdopes-443/contant/eight.png",
+            "../assets/g_one.png"
+
           ]
         }
       ]
@@ -427,7 +406,9 @@
            "../assets/Boat/airdopes-441-pro/contant/five.png",
            "../assets/Boat/airdopes-441-pro/contant/six.png",
            "../assets/Boat/airdopes-441-pro/contant/seven.png",
-           "../assets/Boat/airdopes-441-pro/contant/eight.png"
+           "../assets/Boat/airdopes-441-pro/contant/eight.png",
+           "../assets/g_one.png"
+
           ]
         }
       ]
@@ -475,7 +456,9 @@
             "../assets/Boat/airdopes-402/contant/four.png",
             "../assets/Boat/airdopes-402/contant/five.png",
             "../assets/Boat/airdopes-402/contant/six.png",
-            "../assets/Boat/airdopes-402/contant/seven.png"
+            "../assets/Boat/airdopes-402/contant/seven.png",
+            "../assets/g_one.png"
+
           ]
         }
       ]
@@ -525,7 +508,9 @@
            "../assets/Boat/airdopes-281-pro/contant/six.png",
            "../assets/Boat/airdopes-281-pro/contant/seven.png",
            "../assets/Boat/airdopes-281-pro/contant/eight.png",
-           "../assets/Boat/airdopes-281-pro/contant/nine.png"
+           "../assets/Boat/airdopes-281-pro/contant/nine.png",
+           "../assets/g_one.png"
+
           ]
         }
       ]
@@ -573,7 +558,9 @@
             "../assets/Boat/Airdopes 701/contant/five.png",
             "../assets/Boat/Airdopes 701/contant/six.png",
             "../assets/Boat/Airdopes 701/contant/seven.png",
-            "../assets/Boat/Airdopes 701/contant/eight.png"
+            "../assets/Boat/Airdopes 701/contant/eight.png",
+            "../assets/g_one.png"
+
           ]
         }
       ]
@@ -621,7 +608,9 @@
            "../assets/Boat/Airdopes 621/contant/five.png",
            "../assets/Boat/Airdopes 621/contant/six.png",
            "../assets/Boat/Airdopes 621/contant/seven.png",
-           "../assets/Boat/Airdopes 621/contant/eight.png"
+           "../assets/Boat/Airdopes 621/contant/eight.png",
+           "../assets/g_one.png"
+
           ]
         }
       ]
@@ -677,7 +666,9 @@
             "../assets/Boat/Airdopes 601 ANC/contant/eleven.png",
             "../assets/Boat/Airdopes 601 ANC/contant/twelve.png",
             "../assets/Boat/Airdopes 601 ANC/contant/thirteen.png",
-            "../assets/Boat/Airdopes 601 ANC/contant/forteen.png"
+            "../assets/Boat/Airdopes 601 ANC/contant/forteen.png",
+            "../assets/g_one.png"
+
           ]
         }
       ]
@@ -722,7 +713,9 @@
           "content_1": [
             "../assets/Boat/Airdopes 491/contant/one.png",
             "../assets/Boat/Airdopes 491/contant/two.png",
-            "../assets/Boat/Airdopes 491/contant/three.png"
+            "../assets/Boat/Airdopes 491/contant/three.png",
+            "../assets/g_one.png"
+
 
           ]
         }
@@ -773,7 +766,9 @@
             "../assets/Boat/Airdopes 441 KKR Edition/contant/five.png",
             "../assets/Boat/Airdopes 441 KKR Edition/contant/six.png",
             "../assets/Boat/Airdopes 441 KKR Edition/contant/seven.png",
-            "../assets/Boat/Airdopes 441 KKR Edition/contant/eight.png"
+            "../assets/Boat/Airdopes 441 KKR Edition/contant/eight.png",
+            "../assets/g_one.png"
+
 
           ]
         }
@@ -824,7 +819,9 @@
             "../assets/Boat/Airdopes 431/contant/four.png",
             "../assets/Boat/Airdopes 431/contant/five.png",
             "../assets/Boat/Airdopes 431/contant/six.png",
-            "../assets/Boat/Airdopes 431/contant/seven.png"
+            "../assets/Boat/Airdopes 431/contant/seven.png",
+            "../assets/g_one.png"
+
 
           ]
         }
@@ -874,7 +871,9 @@
            "../assets/Boat/Airdopes 383/contant/four.png",
            "../assets/Boat/Airdopes 383/contant/five.png",
            "../assets/Boat/Airdopes 383/contant/six.png",
-           "../assets/Boat/Airdopes 383/contant/seven.png"
+           "../assets/Boat/Airdopes 383/contant/seven.png",
+           "../assets/g_one.png"
+
 
           ]
         }
@@ -927,7 +926,9 @@
            "../assets/Boat/Airdopes 281/contant/six.png",
            "../assets/Boat/Airdopes 281/contant/seven.png",
            "../assets/Boat/Airdopes 281/contant/eight.png",
-           "../assets/Boat/Airdopes 281/contant/nine.png"
+           "../assets/Boat/Airdopes 281/contant/nine.png",
+           "../assets/g_one.png"
+
 
           ]
         }
@@ -979,7 +980,9 @@
             "../assets/Boat/Airdopes 171/contant/five.png",
             "../assets/Boat/Airdopes 171/contant/six.png",
             "../assets/Boat/Airdopes 171/contant/seven.png",
-            "../assets/Boat/Airdopes 171/contant/eight.png"
+            "../assets/Boat/Airdopes 171/contant/eight.png",
+            "../assets/g_one.png"
+
 
           ]
         }
