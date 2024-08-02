@@ -18,9 +18,11 @@ app.use(express.urlencoded({
 }))
 
 import paymentRoute from "./routes/paymentRoutes.js"
+// import { manish } from "./controllers/paymentController.js"
 
 
 app.use('/api/api', paymentRoute)
+// app.use('/api/manish',manish)
 
 app.get("/api/api/getkey", (req, res) => {
 
